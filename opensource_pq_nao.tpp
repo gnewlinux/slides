@@ -12,15 +12,16 @@
 --newpage
 --withborder
 --title Quem sou eu?
---boldon
+
+
 nome: Diego Sarzi
---boldoff
 idade: 30 anos
 Casado com uma linda esposa, 3 filhos e recentemente com um novo menbro da familia, o GNU.
 Dono do canal no youtube: GnewLinux
-Experiencias: 
+
+Experiência: 
 * Designer a 12 anos 
-* Programador a 4 anos 
+* Programador a 6 anos 
 * Estusiasta a 31 anos
 
 Contribuo com o projeto Debian com empacotamento e divulgação.
@@ -75,8 +76,17 @@ Pelo software quase sempre sair de graça, os custos serão de suporte. Podendo 
 Editor de Imagens - GIMP
 Navegadores Web - Firefox e Chromium
 Reprodrução Video - VLC
-Ferramentas Office - Libre Office
 Virtualizador - VirtualBox
 Clientes FTP - Filezilla
 Clientes Email - ThunderBird
 Projetos Web - WordPress
+
+--## Slide 5
+--newpage
+--withborder
+--title Alguns exemplos para empresas:
+---
+GLPI - Gestão de Chamados
+GNUCASH - Finanças
+HOMEBANK - Finanças
+LibreOffice - Office Completo
